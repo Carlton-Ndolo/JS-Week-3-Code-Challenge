@@ -15,7 +15,7 @@ function getMovies() {
   
           // Create text content for the li element
           li.textContent = movie.title;
-  
+          
           // Create a delete button
           const deleteButton = document.createElement('button');
           deleteButton.textContent = 'Delete';
