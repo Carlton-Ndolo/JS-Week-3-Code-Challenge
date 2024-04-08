@@ -1,6 +1,6 @@
 # Flatdango
 
-Flatiron Movie Theater is open for business! You will be building out an
+Flatiron Movie Theater is open for business! We will be building out an
 application, Flatdango, that allows a user to purchase movie tickets from the
 theater.
 
@@ -175,7 +175,18 @@ attempting the bonus deliverables!**
 1. Click on a movie in the menu to replace the currently displayed movie's
    details with the new movie's details. Note that you may have to make an
    additional GET request to access the movie's details.
+   
+###License
 
+MIT license
+
+Copyright (2023) Carlton Ndolo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
