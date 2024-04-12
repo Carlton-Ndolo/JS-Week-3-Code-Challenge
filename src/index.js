@@ -15,7 +15,7 @@ function getMovies() {
   
           // Create text content for the li element
           li.textContent = movie.title;
-          
+
           // Create a delete button
           const deleteButton = document.createElement('button');
           deleteButton.textContent = 'Delete';
@@ -60,7 +60,7 @@ function firstMovie() {
             // Extract movie information
             const title = movie.title;
             const runtime = movie.runtime;
-            const description = movie.description; // Assuming there is a 'description' property in your data
+            const description = movie.description;
             const showtime = movie.showtime;
             const capacity = movie.capacity;
             let availableTickets = capacity - movie.tickets_sold;
